@@ -61,3 +61,7 @@
     
 </ul>
 </details>
+
+<p align="center">
+    	https://github-readme-stats.vercel.app/api/top-langs/?username=faizmhf666&theme=blue-green
+</p>
