@@ -63,5 +63,6 @@
 </details>
 
 <p align="center">
-    	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizmhf666&theme=blue-green" alt="stats" />
+    	<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizmhf666&theme=blue-green" alt="language-stats" /></a>
+    <a><img src="https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green" alt = "github-stats" /></a>
 </p>
