@@ -33,25 +33,25 @@
 <details>
     <summary>Click to view a list of some of my projects</summary>
     <ul>
-        <li><a href="bggradientfaiz.ccbp.tech" >Background gradient using ReactJs</a></li>
-    <li><a href="memecreaterfaiz.ccbp.tech" >meme generator using ReactJs</a></li>
-    <li><a href="faizbookhub.ccbp.tech" >BookHub CCBP React Project</a></li>
-    <li><a href="ecommercebyme.ccbp.tech" >E-commerce web</a></li>
-    <li><a href="changethememhf.ccbp.tech" target="blank">Navbar with theme switch ReactJs</a></li>
-    <li><a href="primevideocmhf.ccbp.tech" target="blank">Streaming service landing page using ReactJs</a></li>
-    <li><a href="faizregform.ccbp.tech" target="blank">Dummy registration form using ReactJS</a></li>
-    <li><a href="fzcommentapp.ccbp.tech" target="blank">Comment your Thoughts app/appsection using ReactJs</a></li>
-    <li><a href="faizcointoss.ccbp.tech" target="blank">Coin Toss webapp using ReactJs</a></li>
-    <li><a href="faizappstore.ccbp.tech" target="blank">App store landing page using ReactJs</a></li>
-    <li><a href="faizreactbh.ccbp.tech" target="blank">Browser History page using ReactJs</a></li>
-    <li><a href="faizmh1.ccbp.tech" target="blank">simple webpage to render given user list using ReactJs</a></li>
-    <li><a href="withcsspagedemo.ccbp.tech" target="blank">CSS flexbox dummy blog page</a></li>
-    <li><a href="formpoiuy.ccbp.tech" target="blank">Form page using different input methods using JavaScript and Html/css</a></li>
-    <li><a href="https://wikiapifaiz.ccbp.tech/" target="blank">Wikipedia search webapp using JavaScript and Html/css</a></li>
-    <li><a href="explosivesgame.ccbp.tech" target="blank">Explosive game demonstrating various events and interval/timer in Javascript using JavaScript and Html/css</a></li>
-    <li><a href="todowebpagebyjf.ccbp.tech" target="blank">Todo Webapp demonstrating JavaScript events using JavaScript and Html/css  </a></li>
-    <li><a href="catswitchproje2.ccbp.tech" target="blank">Caty andSwitch Demonstrating event listeners in JavaScript</a></li>
-    <li><a href="guessnumberfaiz.ccbp.tech" target="blank">Number Guessing game using JavaScript Math function</a></li>
+        <li><a href="https://bggradientfaiz.ccbp.tech" target="blank">Background gradient using ReactJs</a></li>
+        <li><a href="https://memecreaterfaiz.ccbp.tech" target="blank">meme generator using ReactJs</a></li>
+        <li><a href="https://faizbookhub.ccbp.tech" target="blank">BookHub CCBP React Project</a></li>
+        <li><a href="https://ecommercebyme.ccbp.tech" target="blank">E-commerce web</a></li>
+        <li><a href="https://changethememhf.ccbp.tech" target="blank">Navbar with theme switch ReactJs</a></li>
+        <li><a href="https://primevideocmhf.ccbp.tech" target="blank">Streaming service landing page using ReactJs</a></li>
+        <li><a href="https://faizregform.ccbp.tech" target="blank">Dummy registration form using ReactJS</a></li>
+        <li><a href="https://fzcommentapp.ccbp.tech" target="blank">Comment your Thoughts app/appsection using ReactJs</a></li>
+        <li><a href="https://faizcointoss.ccbp.tech" target="blank">Coin Toss webapp using ReactJs</a></li>
+        <li><a href="https://faizappstore.ccbp.tech" target="blank">App store landing page using ReactJs</a></li>
+        <li><a href="https://faizreactbh.ccbp.tech" target="blank">Browser History page using ReactJs</a></li>
+        <li><a href="https://faizmh1.ccbp.tech" target="blank">simple webpage to render given user list using ReactJs</a></li>
+        <li><a href="https://withcsspagedemo.ccbp.tech" target="blank">CSS flexbox dummy blog page</a></li>
+        <li><a href="https://formpoiuy.ccbp.tech" target="blank">Form page using different input methods using JavaScript and Html/css</a></li>
+        <li><a href="https://wikiapifaiz.ccbp.tech/" target="blank">Wikipedia search webapp using JavaScript and Html/css</a></li>
+        <li><a href="https://explosivesgame.ccbp.tech" target="blank">Explosive game demonstrating various events and interval/timer in Javascript using JavaScript and Html/css</a></li>
+        <li><a href="https://todowebpagebyjf.ccbp.tech" target="blank">Todo Webapp demonstrating JavaScript events using JavaScript and Html/css  </a></li>
+        <li><a href="https://catswitchproje2.ccbp.tech" target="blank">Caty andSwitch Demonstrating event listeners in JavaScript</a></li>
+        <li><a href="https://guessnumberfaiz.ccbp.tech" target="blank">Number Guessing game using JavaScript Math function</a></li>
     
     
 </ul>
