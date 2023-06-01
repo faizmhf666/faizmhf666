@@ -7,7 +7,7 @@
         I am an aspiring/passionate web developer from India making a transition from Automobile/Customer Support industry to IT.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/faiz-mohammed-77a896210/">
-        <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png" alt="LinkedIn">
+        <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png" height="30" width="40"  alt="LinkedIn">
     </a>
     <a href="https://instagram.com/zack.the.jack.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zack.the.jack.1" height="30" width="40" /></a>
 </p>
