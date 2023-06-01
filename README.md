@@ -31,7 +31,7 @@
 
 ### Projects
 <details>
-    <summary>A List of some of my projects</summary>
+    <summary>Click to view a list of some of my projects</summary>
     <ul>
         <li><a href="bggradientfaiz.ccbp.tech" target="blank">Background gradient using ReactJs</a></li>
     <li><a href="memecreaterfaiz.ccbp.tech" target="blank">meme generator using ReactJs</a></li>
