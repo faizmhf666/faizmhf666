@@ -62,7 +62,13 @@
 </ul>
 </details>
 
-<p align="center">
-    	<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizmhf666&theme=blue-green" alt="language-stats" /></a>
-    <a><img src="https://github-readme-stats.vercel.app/api?username=faizmhf666&theme=blue-green" alt = "github-stats" /></a>
-</p>
+### MyStats
+<details>
+    <summary>Click here for stats</summary>
+<ul>
+    <p align="center"><a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizmhf666&theme=blue-green" alt="language-stats" /></a></p>
+<p align="center"><a><img src="https://github-readme-stats.vercel.app/api?username=faizmhf666&theme=blue-green" alt = "github-stats" /></a></p>
+</ul>
+
+</details>
+
