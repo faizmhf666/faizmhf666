@@ -67,8 +67,9 @@
     <summary>Click here for stats</summary>
 <ul>
     <p align="center"><a href="https://github.com/faizmhf666"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faizmhf666&theme=transparent" /></a>
-    <p align="center"><a href="https://github.com/faizmhf666"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizmhf666&theme=blue-green" alt="language-stats" /></a></p>
     <p align="center"><a href="https://github.com/faizmhf666"><img src="https://github-readme-stats.vercel.app/api?username=faizmhf666&theme=blue-green" alt = "github-stats" /></a></p>
+    <p align="center"><a href="https://github.com/faizmhf666"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizmhf666&theme=blue-green" alt="language-stats" /></a></p>
+    
 </ul>
 
 </details>
