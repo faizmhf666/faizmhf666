@@ -4,7 +4,7 @@
     <b>A very warm welcome to my GitHub profile</b><br><br>
     <i>
         I'm Mohammed Habeeb Faiz.<br>
-        I am an aspiring/passionate web developer from India making a transition from Automobile/Support industry to IT.<br>
+        I am an aspiring/passionate web developer from India making a transition from Automobile/Customer Support industry to IT.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/faiz-mohammed-77a896210/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
