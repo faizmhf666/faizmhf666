@@ -31,7 +31,7 @@
 
 ### Projects
 <details>
-    <summary>Click to view a list of some of my projects</summary>
+    <summary>Click here to view some of my projects</summary>
     <ul>
         <li><a href="https://rpsgamebyfaiz.ccbp.tech/" target="blank">Rock Paper Scissors using ReactJs</a></li>
         <li><a href="https://bggradientfaiz.ccbp.tech" target="blank">Background gradient using ReactJs</a></li>
