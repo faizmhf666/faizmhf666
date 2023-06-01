@@ -22,7 +22,7 @@
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/faizmhf666)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/faizmhf666)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/faizmhf666)
-[![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/faizmhf666)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/faizmhf666)
 [![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/faizmhf666)
 [![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://github.com/faizmhf666)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/faizmhf666)
