@@ -27,3 +27,28 @@
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/faizmhf666)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/faizmhf666)
+
+
+### Projects
+<ul>
+    <li><a href="bggradientfaiz.ccbp.tech" target="blank">Background gradient using ReactJs</a></li>
+    <li><ahref="memecreaterfaiz.ccbp.tech" target="blank">meme generator using ReactJs</a></li>
+    <li><ahref="faizbookhub.ccbp.tech" target="blank">BookHub CCBP React Project</a></li>
+    <li><ahref="ecommercebyme.ccbp.tech" target="blank">E-commerce web</a></li>
+    <li><ahref="changethememhf.ccbp.tech" target="blank">Navbar with theme switch ReactJs</a></li>
+    <li><ahref="primevideocmhf.ccbp.tech" target="blank">Streaming service landing page using ReactJs</a></li>
+    <li><ahref="faizregform.ccbp.tech" target="blank">Dummy registration form using ReactJS</a></li>
+    <li><ahref="fzcommentapp.ccbp.tech" target="blank">Comment your Thoughts app/appsection using ReactJs</a></li>
+    <li><ahref="faizcointoss.ccbp.tech" target="blank">Coin Toss webapp using ReactJs</a></li>
+    <li><ahref="faizappstore.ccbp.tech" target="blank">App store landing page using ReactJs</a></li>
+    <li><ahref="faizreactbh.ccbp.tech" target="blank">Browser History page using ReactJs</a></li>
+    <li><ahref="faizmh1.ccbp.tech" target="blank">simple webpage to render given user list using ReactJs</a></li>
+    <li><ahref="withcsspagedemo.ccbp.tech" target="blank">CSS flexbox dummy blog page</a></li>
+    <li><ahref="formpoiuy.ccbp.tech" target="blank">Form page using different input methods using JavaScript and Html/css</a></li>
+    <li><ahref="https://wikiapifaiz.ccbp.tech/" target="blank">Wikipedia search webapp using JavaScript and Html/css</a></li>
+    <li><ahref="explosivesgame.ccbp.tech" target="blank">Explosive game demonstrating various events and interval/timer in Javascript using JavaScript and Html/css</a></li>
+    <li><ahref="todowebpagebyjf.ccbp.tech" target="blank">Todo Webapp demonstrating JavaScript events using JavaScript and Html/css  </a></li>
+    <li><ahref="catswitchproje2.ccbp.tech" target="blank">Caty andSwitch Demonstrating event listeners in JavaScript</a></li>
+    <li><ahref="guessnumberfaiz.ccbp.tech" target="blank">Number Guessing game using JavaScript Math function</a></li>
+    
+</ul>
