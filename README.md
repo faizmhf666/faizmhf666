@@ -33,10 +33,10 @@
 <details>
     <summary>Click to view a list of some of my projects</summary>
     <ul>
-        <li><a href="bggradientfaiz.ccbp.tech" target="blank">Background gradient using ReactJs</a></li>
-    <li><a href="memecreaterfaiz.ccbp.tech" target="blank">meme generator using ReactJs</a></li>
-    <li><a href="faizbookhub.ccbp.tech" target="blank">BookHub CCBP React Project</a></li>
-    <li><a href="ecommercebyme.ccbp.tech" target="blank">E-commerce web</a></li>
+        <li><a href="bggradientfaiz.ccbp.tech" >Background gradient using ReactJs</a></li>
+    <li><a href="memecreaterfaiz.ccbp.tech" >meme generator using ReactJs</a></li>
+    <li><a href="faizbookhub.ccbp.tech" >BookHub CCBP React Project</a></li>
+    <li><a href="ecommercebyme.ccbp.tech" >E-commerce web</a></li>
     <li><a href="changethememhf.ccbp.tech" target="blank">Navbar with theme switch ReactJs</a></li>
     <li><a href="primevideocmhf.ccbp.tech" target="blank">Streaming service landing page using ReactJs</a></li>
     <li><a href="faizregform.ccbp.tech" target="blank">Dummy registration form using ReactJS</a></li>
