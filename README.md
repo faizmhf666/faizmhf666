@@ -31,7 +31,8 @@
 
 ### Projects
 <ul>
-    <li><a href="bggradientfaiz.ccbp.tech" target="blank">Background gradient using ReactJs</a></li>
+    <div align="center">
+        <li><a href="bggradientfaiz.ccbp.tech" target="blank">Background gradient using ReactJs</a></li>
     <li><a href="memecreaterfaiz.ccbp.tech" target="blank">meme generator using ReactJs</a></li>
     <li><a href="faizbookhub.ccbp.tech" target="blank">BookHub CCBP React Project</a></li>
     <li><a href="ecommercebyme.ccbp.tech" target="blank">E-commerce web</a></li>
@@ -50,5 +51,6 @@
     <li><a href="todowebpagebyjf.ccbp.tech" target="blank">Todo Webapp demonstrating JavaScript events using JavaScript and Html/css  </a></li>
     <li><a href="catswitchproje2.ccbp.tech" target="blank">Caty andSwitch Demonstrating event listeners in JavaScript</a></li>
     <li><a href="guessnumberfaiz.ccbp.tech" target="blank">Number Guessing game using JavaScript Math function</a></li>
+    </div>
     
 </ul>
