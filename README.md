@@ -1,4 +1,9 @@
 <h1 align="center">Hello 👋 </h1>
+<p align="center">
+  
+   <img src="https://readme-typing-svg.herokuapp.com/?color=%23E22FE4&center=true&width=300&height=45&lines=ReactJs;Cloud+Native;NodeJS+/+ExpressJs;History;Nice+to+meet+you+...">
+
+</p>
 
 <p align="center">
     <b>A very warm welcome to my GitHub profile</b><br><br>
