@@ -1,4 +1,4 @@
-<h1 align="center">Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" /> </h1>
+<h1 align="center">Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height=30px /> </h1>
 <p align="center">
   
    <img src="https://readme-typing-svg.herokuapp.com/?color=%23E22FE4&center=true&width=300&height=45&lines=ReactJs;Cloud+Native;NodeJS+/+ExpressJs;History;Nice+to+meet+you+...">
