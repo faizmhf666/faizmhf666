@@ -44,12 +44,12 @@
 <details>
     <summary>Click here to view some of my projects</summary>
     <ul>
-        <li><a href="https://rpsgamebyfaiz.ccbp.tech/" target="blank">Rock Paper Scissors using ReactJs</a></li>
-        <li><a href="https://bggradientfaiz.ccbp.tech" target="blank">Background gradient using ReactJs</a></li>
-        <li><a href="https://memecreaterfaiz.ccbp.tech" target="blank">meme generator using ReactJs</a></li>
         <li><a href="https://faizbookhub.ccbp.tech" target="blank">BookHub CCBP React Project</a></li>
         <li><a href="https://ecommercebyme.ccbp.tech" target="blank">E-commerce web</a></li>
         <li><a href="https://changethememhf.ccbp.tech" target="blank">Navbar with theme switch ReactJs</a></li>
+      <li><a href="https://rpsgamebyfaiz.ccbp.tech/" target="blank">Rock Paper Scissors using ReactJs</a></li>
+        <li><a href="https://bggradientfaiz.ccbp.tech" target="blank">Background gradient using ReactJs</a></li>
+        <li><a href="https://memecreaterfaiz.ccbp.tech" target="blank">meme generator using ReactJs</a></li>
         <li><a href="https://primevideocmhf.ccbp.tech" target="blank">Streaming service landing page using ReactJs</a></li>
         <li><a href="https://faizregform.ccbp.tech" target="blank">Dummy registration form using ReactJS</a></li>
         <li><a href="https://fzcommentapp.ccbp.tech" target="blank">Comment your Thoughts app/appsection using ReactJs</a></li>
