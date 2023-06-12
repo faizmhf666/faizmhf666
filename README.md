@@ -17,7 +17,7 @@
     <a href="https://instagram.com/zack.the.jack.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zack.the.jack.1" height="30" width="30" /></a>
 </p>
 
-<img align="right" height="500" width="480" alt="gif" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif" />
+<img align="right" height="400" width="480" alt="gif" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif" />
 
 ### Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/faizmhf666)
