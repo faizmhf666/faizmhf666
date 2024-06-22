@@ -15,7 +15,7 @@
     <a href="https://www.linkedin.com/in/faiz-mohammed-77a896210/">
         <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png" align="center" height="30" width="30"  alt="LinkedIn">
     </a>
-    <a href="https://instagram.com/zack.the.jack.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zack.the.jack.1" height="30" width="30" /></a>
+    <a href="https://instagram.com/mhf1997_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mhf1997_" height="30" width="30" /></a>
 </p>
 
 <img align="right" height="350"  alt="gif" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif" />
